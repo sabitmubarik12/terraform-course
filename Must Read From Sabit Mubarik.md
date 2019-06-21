@@ -1,4 +1,4 @@
-# terraform-course
+# terraform-course||
 These are all the course directories that I have worked upon in order to perform the essential resource creation, management, automation and other things that are necessary eventually destroying the resource that are created automated.
 
 I have used the script written by the tutor in order to teach myself how to run the terraform commands like 
@@ -10,7 +10,7 @@ etc.
 ================================================================================================================
 ________________________________________________________________________________________________________________
 
-#Personal-Note
+#Personal-Note||
 There were certain things that I was unable to convey to you lovely folks.
 
 The best aspect about me in order to describe why I am the best candidate is that I am like Hot Iron, I can be moulded into any shape as per your workload requirements. 
@@ -29,7 +29,7 @@ I really want to work in DevOps while being a part of Nakisa.
 ================================================================================================================
 ________________________________________________________________________________________________________________
 
-# Demo overview
+# Demo overview||
 Demo Directory | Description
 ------------ | -------------
 first-steps | First steps
@@ -60,7 +60,7 @@ docker-demo-2 | Using ECS - The EC2 Container Service
 docker-demo-3 | Using ECR/ECS with Jenkins in a complete workflow
 module-demo | Using ECS + ALB in 4 modules to show how developing terraform modules work
 
-#How to use
+#How to use||
 All the directories have seperate files and scripts to perform the configuration management and resource automation.
 These are the basic steps that you can use to get things done.
 1- Clone the repository
