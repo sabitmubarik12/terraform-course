@@ -59,3 +59,23 @@ docker-demo-1 | Using ECR - The EC2 Container Registry
 docker-demo-2 | Using ECS - The EC2 Container Service
 docker-demo-3 | Using ECR/ECS with Jenkins in a complete workflow
 module-demo | Using ECS + ALB in 4 modules to show how developing terraform modules work
+
+#How to use
+All the directories have seperate files and scripts to perform the configuration management and resource automation.
+These are the basic steps that you can use to get things done.
+1- Clone the repository
+2- Download and install vagrant and VMBox
+3- Install the required setups and softwares.
+4- Clone into the desired directory to deploy infra.
+5- Give in the keys.
+6- Add the resource names like AMIs and the AWS Secret Access keys and AWS Secret Key ID
+7- Enjoy deploying just like me.
+
+I Believe that these practice material would be a piece of cake for you MR.Waqas and MR. Rehan.
+
+These are some of the efforts from my end.
+
+Hope it will serve the purpose.
+
+Regards,
+Sabit Mubarik
