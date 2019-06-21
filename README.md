@@ -1,7 +1,12 @@
 # terraform-course
+These are all the course directories that I have worked upon in order to perform the essential resource creation, management, automation and other things that are necessary eventually destroying the resource that are created automated.
 
-* These files are part of my Udemy course about Terraform
-* Course URL: https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/?couponCode=TERRAFORM_GIT
+I have used the script written by the tutor in order to teach myself how to run the terraform commands like 
+-> Terraform apply
+-> Terraform init
+-> Terraform plan
+-> Terraform destroy
+etc.
 
 # Demo overview
 Demo Directory | Description
